@@ -1,0 +1,5 @@
+azure-cognitiveservices-speech
+keyboard
+pyautogui
+pycaw
+python-dotenv
